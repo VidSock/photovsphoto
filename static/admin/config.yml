@@ -47,6 +47,7 @@ collections:
           format: "YYYY-MM-DD HH:mm",
         }
       - { label: "SEO Description", name: "description", widget: "text" }
+      - { label: "YouTube Url", name: "youtuber", widget: "string" }
       - {
           label: "Featured Image",
           name: "featuredImage",
@@ -54,6 +55,8 @@ collections:
           required: false,
           tagname: "",
         }
+
+
 
       - {
           label: "Body",
@@ -77,7 +80,6 @@ collections:
           - { label: "Slug", name: "slug", widget: "hidden", default: "/" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Tagline", name: "tagline", widget: "string" }
-          - { label: "YouTube Url", name: "youtube", widget: "string" }
           - { label: "Featured Image", name: "featuredImage", widget: "image" }
           - { label: "Body", name: "body", widget: "markdown" }
           - label: "CTA"

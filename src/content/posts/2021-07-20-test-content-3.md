@@ -5,6 +5,8 @@ slug: /third-post
 date: 2021-07-22 11:37
 description: "On the road with my dog Montana"
 featuredImage: /assets/IMG_0080.jpg
+featuredImage2: /assets/IMG_0803.jpg
+youtuber: "I8OBfRyplyE"
 ---
 
 ## Summertime, and the livin's easy

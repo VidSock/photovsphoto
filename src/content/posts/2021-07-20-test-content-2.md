@@ -5,6 +5,8 @@ slug: /second-post
 date: 2021-07-19 11:37
 description: "West Coast - I've Landed!"
 featuredImage: /assets/IMG_0556.jpg
+featuredImage2: /assets/IMG_0803.jpg
+youtuber: "I8OBfRyplyE"
 ---
 
 ## Second Blog Post

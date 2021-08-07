@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Local Professional Photography
 tagline: Capturing Moments of Your Life to Cherish Forever
-youtube: vWNkRK6-oU4
+youtube: zomZywCAPTA
 featuredImage: /assets/4B4A9560.jpg
 cta:
   ctaText: See the photos

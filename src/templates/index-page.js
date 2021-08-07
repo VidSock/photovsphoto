@@ -158,6 +158,8 @@ const HomePage = ({ data }) => {
 
 
 
+
+
           <ScrollAnimation className="signup" animateIn="bounceInUp" delay={3950} initiallyVisible={false} animateOnce={true} animatePreScroll={true} style={{position:'absolute',
 right:'', border:'0px solid yellow', justifyContent:'center', width:'', textAlign:'center', display:'flex', borderRadius:'12px', marginTop:'2rem'}}>
 
